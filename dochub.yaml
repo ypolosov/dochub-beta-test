@@ -15,4 +15,4 @@ docs:
     type: markdown
     source: dochub.welcome.md
     location: /dochub.welcome
-    title: dochub.welcome
+    title: Главная страница
